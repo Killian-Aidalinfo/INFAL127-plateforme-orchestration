@@ -7,3 +7,5 @@
 - Dokploy : https://dokploy.com/
 
 - Market place dashboard grafana : https://grafana.com/grafana/dashboards/
+
+- ELK stack : https://www.elastic.co/elastic-stack
