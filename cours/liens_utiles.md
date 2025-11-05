@@ -9,3 +9,5 @@
 - Market place dashboard grafana : https://grafana.com/grafana/dashboards/
 
 - ELK stack : https://www.elastic.co/elastic-stack
+
+- Formation complète Kubernetes : https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/
