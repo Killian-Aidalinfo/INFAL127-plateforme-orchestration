@@ -11,3 +11,5 @@
 - ELK stack : https://www.elastic.co/elastic-stack
 
 - Formation complète Kubernetes : https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/
+
+- Utilisation des MCP : https://medium.com/@elisowski/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288
